@@ -30,20 +30,6 @@
                 href="https://egorvidmaer.github.io/event/"
                 />
   </url><url>
-    <loc>https://egorvidmaer.github.io/tags/academic/</loc>
-    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://egorvidmaer.github.io/en/tags/academic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://egorvidmaer.github.io/tags/academic/"
-                />
-  </url><url>
     <loc>https://egorvidmaer.github.io/post/</loc>
     <lastmod>2024-09-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -56,6 +42,20 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://egorvidmaer.github.io/post/"
+                />
+  </url><url>
+    <loc>https://egorvidmaer.github.io/tags/academic/</loc>
+    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://egorvidmaer.github.io/en/tags/academic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://egorvidmaer.github.io/tags/academic/"
                 />
   </url><url>
     <loc>https://egorvidmaer.github.io/tags/</loc>
@@ -168,20 +168,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://egorvidmaer.github.io/publication/ai/"
-                />
-  </url><url>
-    <loc>https://egorvidmaer.github.io/experience/experience/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://egorvidmaer.github.io/en/experience/experience/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://egorvidmaer.github.io/experience/experience/"
                 />
   </url><url>
     <loc>https://egorvidmaer.github.io/experience/</loc>

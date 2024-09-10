@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | Egor Vidmaer</title>
+    <link>https://egorvidmaer.github.io/en/post/</link>
+      <atom:link href="https://egorvidmaer.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://egorvidmaer.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Blog</title>
+      <link>https://egorvidmaer.github.io/en/post/</link>
+    </image>
+    
+    <item>
+      <title>Пост по занятиям с 2 по 7 сентября</title>
+      <link>https://egorvidmaer.github.io/en/post/summary1/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://egorvidmaer.github.io/en/post/summary1/</guid>
+      <description>&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
+&lt;p&gt;На этой неделе я осваивал новые предметы которые появились на втором курсе.
+также на этой неделе я активно занимался спортом, ходил в зал , посещал
+физкультуру.&lt;/p&gt;
+&lt;p&gt;к концу рабочей недели , я посетил курсы английского и провел время с друзьями&lt;/p&gt;
+&lt;p&gt;на выходных занялся саморазвитием , дочитал книгу и готовил еду на ужин.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

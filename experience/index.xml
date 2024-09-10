@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences | Егор Видмаер</title>
+    <link>https://egorvidmaer.github.io/experience/</link>
+      <atom:link href="https://egorvidmaer.github.io/experience/index.xml" rel="self" type="application/rss+xml" />
+    <description>Experiences</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://egorvidmaer.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Experiences</title>
+      <link>https://egorvidmaer.github.io/experience/</link>
+    </image>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://egorvidmaer.github.io/experience/experience/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://egorvidmaer.github.io/experience/experience/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Егор Видмаер</title>
-    <link>https://egorvidmaer.github.io/post/</link>
-      <atom:link href="https://egorvidmaer.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Егор Видмаер</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://egorvidmaer.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Егор Видмаер</title>
-      <link>https://egorvidmaer.github.io/post/</link>
+      <link>http://localhost:1313/post/</link>
     </image>
     
     <item>
       <title>Пересдача</title>
-      <link>https://egorvidmaer.github.io/post/peresdacha/</link>
+      <link>http://localhost:1313/post/peresdacha/</link>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://egorvidmaer.github.io/post/peresdacha/</guid>
+      <guid>http://localhost:1313/post/peresdacha/</guid>
       <description>&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
 &lt;p&gt;Я Видмаер Егор Романович, пришел 11.09 на пересдачу. Сделал этот пост  в качестве доказательства&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Пост по занятиям с 2 по 7 сентября</title>
-      <link>https://egorvidmaer.github.io/post/summary1/</link>
+      <link>http://localhost:1313/post/summary1/</link>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://egorvidmaer.github.io/post/summary1/</guid>
+      <guid>http://localhost:1313/post/summary1/</guid>
       <description>&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
 &lt;p&gt;На этой неделе я осваивал новые предметы которые появились на втором курсе.
 также на этой неделе я активно занимался спортом, ходил в зал , посещал

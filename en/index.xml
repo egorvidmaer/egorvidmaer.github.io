@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Egor Vidmaer</title>
-    <link>https://egorvidmaer.github.io/en/</link>
-      <atom:link href="https://egorvidmaer.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/en/</link>
+      <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     <description>Egor Vidmaer</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://egorvidmaer.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Egor Vidmaer</title>
-      <link>https://egorvidmaer.github.io/en/</link>
+      <link>http://localhost:1313/en/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://egorvidmaer.github.io/en/event/example/</link>
+      <link>http://localhost:1313/en/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://egorvidmaer.github.io/en/event/example/</guid>
+      <guid>http://localhost:1313/en/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -38,9 +38,9 @@
     
     <item>
       <title>Post on classes 2-7 september</title>
-      <link>https://egorvidmaer.github.io/en/post/summary1/</link>
+      <link>http://localhost:1313/en/post/summary1/</link>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://egorvidmaer.github.io/en/post/summary1/</guid>
+      <guid>http://localhost:1313/en/post/summary1/</guid>
       <description>&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
 &lt;p&gt;This week I mastered new subjects that appeared in the second year.
 Also this week I was actively involved in sports, went to the gym, attended physical education.&lt;/p&gt;
@@ -51,9 +51,9 @@ Also this week I was actively involved in sports, went to the gym, attended phys
     
     <item>
       <title>IT in education new opportunities</title>
-      <link>https://egorvidmaer.github.io/en/publication/it-in-edu/</link>
+      <link>http://localhost:1313/en/publication/it-in-edu/</link>
       <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://egorvidmaer.github.io/en/publication/it-in-edu/</guid>
+      <guid>http://localhost:1313/en/publication/it-in-edu/</guid>
       <description>&lt;p&gt;IT is transforming education, providing new opportunities for learning and
 development.&lt;/p&gt;
 &lt;ul&gt;
@@ -76,9 +76,9 @@ is constantly evolving, and we must be aware of the latest trends and opportunit
     
     <item>
       <title>Cybersecurity Fighting the Invisible Enemy</title>
-      <link>https://egorvidmaer.github.io/en/publication/cybersec/</link>
+      <link>http://localhost:1313/en/publication/cybersec/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://egorvidmaer.github.io/en/publication/cybersec/</guid>
+      <guid>http://localhost:1313/en/publication/cybersec/</guid>
       <description>&lt;p&gt;In the digital world, cybersecurity has become an integral part of our
 life. Hackers and cybercriminals are constantly looking for new ways to hack systems,
 steal data, and discredit organizations.&lt;/p&gt;
@@ -106,9 +106,9 @@ steal data, and discredit organizations.&lt;/p&gt;
     
     <item>
       <title>Blockchain is more than cryptocurrencies</title>
-      <link>https://egorvidmaer.github.io/en/publication/blockchain/</link>
+      <link>http://localhost:1313/en/publication/blockchain/</link>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://egorvidmaer.github.io/en/publication/blockchain/</guid>
+      <guid>http://localhost:1313/en/publication/blockchain/</guid>
       <description>&lt;p&gt;Blockchain is often associated with cryptocurrencies, but the technology has a much broader range of applications.&lt;/p&gt;
 &lt;p&gt;Blockchain is a distributed database that provides secure, transparent, and immutable records of information. It is used in a variety of&lt;/p&gt;
 &lt;p&gt;areas, including:&lt;/p&gt;
@@ -132,9 +132,9 @@ steal data, and discredit organizations.&lt;/p&gt;
     
     <item>
       <title>Deep learning how it works</title>
-      <link>https://egorvidmaer.github.io/en/publication/deeplearning/</link>
+      <link>http://localhost:1313/en/publication/deeplearning/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://egorvidmaer.github.io/en/publication/deeplearning/</guid>
+      <guid>http://localhost:1313/en/publication/deeplearning/</guid>
       <description>&lt;p&gt;Deep learning is one of the most popular and rapidly developing areas of
 AI. But how exactly does it work?&lt;/p&gt;
 &lt;p&gt;Imagine a multi-layered neural network, similar to the human brain.
@@ -150,9 +150,9 @@ technologies that change our lives.&lt;/p&gt;
     
     <item>
       <title>Artificial intelligence is not a panacea, but a tool</title>
-      <link>https://egorvidmaer.github.io/en/publication/ai/</link>
+      <link>http://localhost:1313/en/publication/ai/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://egorvidmaer.github.io/en/publication/ai/</guid>
+      <guid>http://localhost:1313/en/publication/ai/</guid>
       <description>&lt;p&gt;Artificial intelligence (AI) is no longer just a buzzword, but a reality that is changing our lives. From smart assistants to medical diagnostics, AI is penetrating all areas. But it is important to understand that AI is not a panacea. It is a powerful and promising tool, but it requires a careful and balanced approach.&lt;/p&gt;
 &lt;p&gt;It is important to remember that AI is a &amp;ldquo;smart&amp;rdquo; algorithm trained on data. The quality of the data and the correct creation of the model determine its effectiveness. Lack of data, bias in training information can lead to incorrect decisions, discrimination and undesirable consequences.&lt;/p&gt;
 &lt;p&gt;AI will not replace humans. It will help us solve problems, but control and responsibility remain with us.&lt;/p&gt;
@@ -161,9 +161,9 @@ technologies that change our lives.&lt;/p&gt;
     
     <item>
       <title>Experience</title>
-      <link>https://egorvidmaer.github.io/en/experience/</link>
+      <link>http://localhost:1313/en/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://egorvidmaer.github.io/en/experience/</guid>
+      <guid>http://localhost:1313/en/experience/</guid>
       <description></description>
     </item>
     

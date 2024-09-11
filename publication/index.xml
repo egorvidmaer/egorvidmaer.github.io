@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Егор Видмаер</title>
-    <link>https://egorvidmaer.github.io/publication/</link>
-      <atom:link href="https://egorvidmaer.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Егор Видмаер</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://egorvidmaer.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Егор Видмаер</title>
-      <link>https://egorvidmaer.github.io/publication/</link>
+      <link>http://localhost:1313/publication/</link>
     </image>
     
     <item>
       <title>ИТ в образовании новые возможности</title>
-      <link>https://egorvidmaer.github.io/publication/it-in-edu/</link>
+      <link>http://localhost:1313/publication/it-in-edu/</link>
       <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://egorvidmaer.github.io/publication/it-in-edu/</guid>
+      <guid>http://localhost:1313/publication/it-in-edu/</guid>
       <description>&lt;p&gt;ИТ трансформирует образование, предоставляя новые возможности для обучения и
 развития.&lt;/p&gt;
 &lt;ul&gt;
@@ -40,9 +40,9 @@
     
     <item>
       <title>. Кибербезопасность борьба с невидимым врагом</title>
-      <link>https://egorvidmaer.github.io/publication/cybersec/</link>
+      <link>http://localhost:1313/publication/cybersec/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://egorvidmaer.github.io/publication/cybersec/</guid>
+      <guid>http://localhost:1313/publication/cybersec/</guid>
       <description>&lt;p&gt;В мире цифровых технологий кибербезопасность стала неотъемлемой частью нашей
 жизни. Хакеры и киберпреступники постоянно ищут новые способы взлома систем,
 кражи данных и дискредитации организаций.&lt;/p&gt;
@@ -70,9 +70,9 @@
     
     <item>
       <title>Блокчейн больше чем криптовалюты</title>
-      <link>https://egorvidmaer.github.io/publication/blockchain/</link>
+      <link>http://localhost:1313/publication/blockchain/</link>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://egorvidmaer.github.io/publication/blockchain/</guid>
+      <guid>http://localhost:1313/publication/blockchain/</guid>
       <description>&lt;p&gt;Блокчейн часто ассоциируется с криптовалютами, но эта технология имеет гораздо
 более широкий спектр применения.&lt;/p&gt;
 &lt;p&gt;Блокчейн – это распределенная база данных, которая обеспечивает безопасность,
@@ -99,9 +99,9 @@
     
     <item>
       <title>Глубокое обучение как оно работает</title>
-      <link>https://egorvidmaer.github.io/publication/deeplearning/</link>
+      <link>http://localhost:1313/publication/deeplearning/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://egorvidmaer.github.io/publication/deeplearning/</guid>
+      <guid>http://localhost:1313/publication/deeplearning/</guid>
       <description>&lt;p&gt;Глубокое обучение – один из самых популярных и быстро развивающихся разделов
 ИИ. Но как именно оно работает?&lt;/p&gt;
 &lt;p&gt;Представьте себе многослойную нейронную сеть, схожую с человеческим мозгом.
@@ -118,9 +118,9 @@
     
     <item>
       <title>Искусственный интеллект не панацея, а инструмент</title>
-      <link>https://egorvidmaer.github.io/publication/ai/</link>
+      <link>http://localhost:1313/publication/ai/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://egorvidmaer.github.io/publication/ai/</guid>
+      <guid>http://localhost:1313/publication/ai/</guid>
       <description>&lt;p&gt;Искусственный интеллект (ИИ) уже не просто модное слово, а реальность, которая
 меняет нашу жизнь. От умных помощников до медицинской диагностики – ИИ
 проникает во все сферы. Но важно понимать, что ИИ – не панацея. Это инструмент,

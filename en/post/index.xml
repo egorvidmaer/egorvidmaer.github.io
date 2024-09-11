@@ -2,26 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Egor Vidmaer</title>
-    <link>https://egorvidmaer.github.io/en/post/</link>
-      <atom:link href="https://egorvidmaer.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/en/post/</link>
+      <atom:link href="http://localhost:1313/en/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Egor Vidmaer</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://egorvidmaer.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Egor Vidmaer</title>
-      <link>https://egorvidmaer.github.io/en/post/</link>
+      <link>http://localhost:1313/en/post/</link>
     </image>
     
     <item>
       <title>Post on classes 2-7 september</title>
-      <link>https://egorvidmaer.github.io/en/post/summary1/</link>
+      <link>http://localhost:1313/en/post/summary1/</link>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://egorvidmaer.github.io/en/post/summary1/</guid>
+      <guid>http://localhost:1313/en/post/summary1/</guid>
       <description>&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
 &lt;p&gt;This week I mastered new subjects that appeared in the second year.
 Also this week I was actively involved in sports, went to the gym, attended physical education.&lt;/p&gt;
 &lt;p&gt;By the end of the work week, I attended English courses and spent time with friends&lt;/p&gt;
 &lt;p&gt;On the weekend I did self-development, finished reading a book and cooked food for dinner.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пересдача</title>
+      <link>http://localhost:1313/en/post/peresdacha/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/peresdacha/</guid>
+      <description>&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
+&lt;p&gt;Я Видмаер Егор Романович, пришел 11.09 на пересдачу. Сделал этот пост  в качестве доказательства&lt;/p&gt;
 </description>
     </item>
     

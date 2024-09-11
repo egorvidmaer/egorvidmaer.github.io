@@ -2,217 +2,217 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://egorvidmaer.github.io/event/example/</loc>
+    <loc>http://localhost:1313/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://egorvidmaer.github.io/en/event/example/"
+                href="http://localhost:1313/en/event/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://egorvidmaer.github.io/event/example/"
+                href="http://localhost:1313/event/example/"
                 />
   </url><url>
-    <loc>https://egorvidmaer.github.io/event/</loc>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://egorvidmaer.github.io/en/event/"
+                href="http://localhost:1313/en/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://egorvidmaer.github.io/event/"
+                href="http://localhost:1313/event/"
                 />
   </url><url>
-    <loc>https://egorvidmaer.github.io/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2024-09-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://egorvidmaer.github.io/en/post/"
+                href="http://localhost:1313/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://egorvidmaer.github.io/post/"
+                href="http://localhost:1313/post/"
                 />
   </url><url>
-    <loc>https://egorvidmaer.github.io/tags/academic/</loc>
+    <loc>http://localhost:1313/tags/academic/</loc>
     <lastmod>2024-09-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://egorvidmaer.github.io/en/tags/academic/"
+                href="http://localhost:1313/en/tags/academic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://egorvidmaer.github.io/tags/academic/"
+                href="http://localhost:1313/tags/academic/"
                 />
   </url><url>
-    <loc>https://egorvidmaer.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-09-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://egorvidmaer.github.io/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://egorvidmaer.github.io/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>https://egorvidmaer.github.io/post/peresdacha/</loc>
+    <loc>http://localhost:1313/post/peresdacha/</loc>
     <lastmod>2024-09-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://egorvidmaer.github.io/post/summary1/</loc>
+    <loc>http://localhost:1313/post/summary1/</loc>
     <lastmod>2024-09-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://egorvidmaer.github.io/en/post/summary1/"
+                href="http://localhost:1313/en/post/summary1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://egorvidmaer.github.io/post/summary1/"
+                href="http://localhost:1313/post/summary1/"
                 />
   </url><url>
-    <loc>https://egorvidmaer.github.io/publication/</loc>
+    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2024-09-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://egorvidmaer.github.io/en/publication/"
+                href="http://localhost:1313/en/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://egorvidmaer.github.io/publication/"
+                href="http://localhost:1313/publication/"
                 />
   </url><url>
-    <loc>https://egorvidmaer.github.io/publication/it-in-edu/</loc>
+    <loc>http://localhost:1313/publication/it-in-edu/</loc>
     <lastmod>2024-09-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://egorvidmaer.github.io/en/publication/it-in-edu/"
+                href="http://localhost:1313/en/publication/it-in-edu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://egorvidmaer.github.io/publication/it-in-edu/"
+                href="http://localhost:1313/publication/it-in-edu/"
                 />
   </url><url>
-    <loc>https://egorvidmaer.github.io/publication/cybersec/</loc>
+    <loc>http://localhost:1313/publication/cybersec/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://egorvidmaer.github.io/en/publication/cybersec/"
+                href="http://localhost:1313/en/publication/cybersec/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://egorvidmaer.github.io/publication/cybersec/"
+                href="http://localhost:1313/publication/cybersec/"
                 />
   </url><url>
-    <loc>https://egorvidmaer.github.io/publication/blockchain/</loc>
+    <loc>http://localhost:1313/publication/blockchain/</loc>
     <lastmod>2024-09-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://egorvidmaer.github.io/en/publication/blockchain/"
+                href="http://localhost:1313/en/publication/blockchain/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://egorvidmaer.github.io/publication/blockchain/"
+                href="http://localhost:1313/publication/blockchain/"
                 />
   </url><url>
-    <loc>https://egorvidmaer.github.io/publication/deeplearning/</loc>
+    <loc>http://localhost:1313/publication/deeplearning/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://egorvidmaer.github.io/en/publication/deeplearning/"
+                href="http://localhost:1313/en/publication/deeplearning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://egorvidmaer.github.io/publication/deeplearning/"
+                href="http://localhost:1313/publication/deeplearning/"
                 />
   </url><url>
-    <loc>https://egorvidmaer.github.io/publication/ai/</loc>
+    <loc>http://localhost:1313/publication/ai/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://egorvidmaer.github.io/en/publication/ai/"
+                href="http://localhost:1313/en/publication/ai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://egorvidmaer.github.io/publication/ai/"
+                href="http://localhost:1313/publication/ai/"
                 />
   </url><url>
-    <loc>https://egorvidmaer.github.io/experience/</loc>
+    <loc>http://localhost:1313/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://egorvidmaer.github.io/en/experience/"
+                href="http://localhost:1313/en/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://egorvidmaer.github.io/experience/"
+                href="http://localhost:1313/experience/"
                 />
   </url><url>
-    <loc>https://egorvidmaer.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://egorvidmaer.github.io/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://egorvidmaer.github.io/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://egorvidmaer.github.io/publication_types/</loc>
+    <loc>http://localhost:1313/publication_types/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://egorvidmaer.github.io/en/publication_types/"
+                href="http://localhost:1313/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://egorvidmaer.github.io/publication_types/"
+                href="http://localhost:1313/publication_types/"
                 />
   </url>
 </urlset>
